@@ -19,7 +19,7 @@ agriculture, barren, built-up, forest, grass and water.
 Python, TensorFlow/Keras, OpenCV, NumPy, scikit-learn, Matplotlib, QGIS, Google Colab
 
 ## Results
-Validation pixel accuracy of about 64.6%. The model performs best on forest and
+Validation pixel accuracy of about 92.6%. The model performs best on forest and
 background; minority classes (agriculture, barren, built-up, grass) are limited by
 class imbalance.
 
